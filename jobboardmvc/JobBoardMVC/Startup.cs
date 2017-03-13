@@ -10,7 +10,7 @@ namespace JobBoardMVC
 {
     public partial class Startup
     {
-        public object SeedData { get; private set; }
+        //public object SeedData { get; private set; }
 
         public void Configuration(IAppBuilder app)
         {
