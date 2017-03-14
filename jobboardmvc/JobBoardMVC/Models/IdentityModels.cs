@@ -52,5 +52,6 @@ namespace JobBoardMVC.Models
         public DbSet<Place> Places { get; set; }
         public DbSet<Company> Companies { get; set; }
 
+
     }
 }
