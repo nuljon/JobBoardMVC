@@ -1,237 +1,83 @@
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\roslyn\csc.exe
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\roslyn\Microsoft.CSharp.Core.targets
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\roslyn\System.Collections.Immutable.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\roslyn\System.Reflection.Metadata.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\roslyn\vbc.exe
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\roslyn\VBCSCompiler.exe
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\roslyn\VBCSCompiler.exe.config
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\JobBoardMVC.dll.config
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\JobBoardMVC.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\JobBoardMVC.pdb
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Antlr3.Runtime.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\EntityFramework.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\EntityFramework.SqlServer.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.AspNet.Identity.Core.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.AspNet.Identity.Owin.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.Cookies.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.Facebook.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.Google.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.OAuth.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.Twitter.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Web.Infrastructure.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Newtonsoft.Json.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Owin.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.Helpers.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.Mvc.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.Optimization.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.Razor.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.WebPages.Deployment.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.WebPages.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.WebPages.Razor.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\WebGrease.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.Helpers.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.Mvc.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.Optimization.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.Razor.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.WebPages.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.WebPages.Deployment.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\System.Web.WebPages.Razor.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Antlr3.Runtime.pdb
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Newtonsoft.Json.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\EntityFramework.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\EntityFramework.SqlServer.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.AspNet.Identity.Core.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.AspNet.Identity.Owin.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.Facebook.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.Cookies.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.OAuth.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.Google.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.Twitter.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\obj\Debug\JobBoardMVC.csprojResolveAssemblyReference.cache
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\obj\Debug\JobBoardMVC.dll
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\obj\Debug\JobBoardMVC.pdb
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.InitialCreate.resources
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\obj\Debug\JobBoardMVC.csproj.GenerateResource.Cache
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.CustomUserFields.resources
-c:\users\student\documents\visual studio 2015\Projects\JobBoardMVC\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.AddModels.resources
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\roslyn\csc.exe
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\roslyn\vbc.exe
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\roslyn\VBCSCompiler.exe
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\JobBoardMVC.dll.config
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\JobBoardMVC.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\JobBoardMVC.pdb
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Antlr3.Runtime.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\EntityFramework.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\EntityFramework.SqlServer.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Newtonsoft.Json.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Owin.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.Helpers.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.Mvc.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.Optimization.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.Razor.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.WebPages.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.WebPages.Razor.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\WebGrease.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.Helpers.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.Mvc.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.Optimization.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.Razor.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.WebPages.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\System.Web.WebPages.Razor.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Antlr3.Runtime.pdb
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Newtonsoft.Json.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\EntityFramework.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\EntityFramework.SqlServer.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\obj\Debug\JobBoardMVC.csprojResolveAssemblyReference.cache
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.InitialCreate.resources
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.CustomUserFields.resources
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.AddModels.resources
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\obj\Debug\JobBoardMVC.csproj.GenerateResource.Cache
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\obj\Debug\JobBoardMVC.dll
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\obj\Debug\JobBoardMVC.pdb
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.DbContext.resources
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.ChangeDbTableNames.resources
-C:\Users\Student\Documents\Visual Studio 2015\Projects\JobBoardMVC\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.DbContext.resources
-C:\Users\Student\Documents\Visual Studio 2015\Projects\JobBoardMVC\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.ChangeDbTableNames.resources
-C:\Users\Student\Documents\Visual Studio 2015\Projects\JobBoardMVC\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.JsonJobs.resources
-C:\Users\Student\Documents\Visual Studio 2015\Projects\JobBoardMVC\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.DbSetProject.resources
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.JsonJobs.resources
-C:\Users\Student\OneDrive\TechAcademy\LiveProject\JobBoardMvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.DbSetProject.resources
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\roslyn\csc.exe
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\roslyn\vbc.exe
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\roslyn\VBCSCompiler.exe
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\JobBoardMVC.dll.config
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\JobBoardMVC.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\JobBoardMVC.pdb
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Antlr3.Runtime.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\EntityFramework.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\EntityFramework.SqlServer.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Newtonsoft.Json.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Owin.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.Helpers.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.Mvc.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.Optimization.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.Razor.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.WebPages.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.WebPages.Razor.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\WebGrease.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.Helpers.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.Mvc.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.Optimization.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.Razor.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.WebPages.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.WebPages.Razor.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Antlr3.Runtime.pdb
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Newtonsoft.Json.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\EntityFramework.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\EntityFramework.SqlServer.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\obj\Debug\JobBoardMVC.csprojResolveAssemblyReference.cache
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.JsonJobs.resources
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.DbSetProject.resources
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.InitialCreate.resources
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.CustomUserFields.resources
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.AddModels.resources
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.DbContext.resources
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.ChangeDbTableNames.resources
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\obj\Debug\JobBoardMVC.csproj.GenerateResource.Cache
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\obj\Debug\JobBoardMVC.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\obj\Debug\JobBoardMVC.pdb
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Net.Http.Formatting.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.Http.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.Http.WebHost.dll
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Net.Http.Formatting.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.Http.xml
-C:\Users\Student\OneDrive\GitHubClones\JobBoardMVC\jobboardmvc\JobBoardMVC\bin\System.Web.Http.WebHost.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\obj\Debug\JobBoardMVC.csprojResolveAssemblyReference.cache
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.JsonJobs.resources
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.DbSetProject.resources
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.InitialCreate.resources
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.CustomUserFields.resources
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.AddModels.resources
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.DbContext.resources
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\obj\Debug\JobBoardMVC.Migrations.ChangeDbTableNames.resources
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\obj\Debug\JobBoardMVC.csproj.GenerateResource.Cache
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\roslyn\csc.exe
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\roslyn\vbc.exe
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\roslyn\VBCSCompiler.exe
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\JobBoardMVC.dll.config
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\JobBoardMVC.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\JobBoardMVC.pdb
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Antlr3.Runtime.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\EntityFramework.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\EntityFramework.SqlServer.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Newtonsoft.Json.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Owin.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Net.Http.Formatting.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.Helpers.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.Http.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.Http.WebHost.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.Mvc.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.Optimization.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.Razor.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.WebPages.Deployment.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.WebPages.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.WebPages.Razor.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\WebGrease.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Net.Http.Formatting.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.Http.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.Http.WebHost.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.Helpers.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.Mvc.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.Optimization.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.Razor.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.WebPages.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.WebPages.Deployment.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\System.Web.WebPages.Razor.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Antlr3.Runtime.pdb
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Newtonsoft.Json.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\EntityFramework.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\EntityFramework.SqlServer.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\obj\Debug\JobBoardMVC.dll
+C:\JobBoard\JobBoardMVC-3-15\JobBoardMVC\obj\Debug\JobBoardMVC.pdb
